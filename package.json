@@ -1,0 +1,23 @@
+{
+  "name": "learning_docker",
+  "version": "1.0.0",
+  "description": "create docker container to host a service",
+  "homepage": "https://github.com/Maanav-s/learning_docker#readme",
+  "bugs": {
+    "url": "https://github.com/Maanav-s/learning_docker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maanav-s/learning_docker.git"
+  },
+  "license": "ISC",
+  "author": "Maanav Sikaria",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
